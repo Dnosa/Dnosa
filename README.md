@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**Dnosa/Dnosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Destiny Nosa  
 
-Here are some ideas to get you started:
+🎓 Electronic Engineering student at Maynooth University (Ireland).  
+⚡ Interests: Embedded Systems | AI/ML | Cloud Computing | Software Development.  
+🏃 Sprinter & Basketball player | Always learning & building.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+- Languages: C, C++, Python, Java.
+- Tools: MATLAB, LTSpice, Vivado, Git.
+- Platforms: AWS, IBM Cloud.
+
+## 📂 Projects
+- [AI Spam Classifier](link-to-repo) → Machine learning model to classify spam vs ham messages.   
+
+## 🌍 Connect
+- [LinkedIn](www.linkedin.com/in/dn03)
+- Email: destinynosa15@gmail.com
