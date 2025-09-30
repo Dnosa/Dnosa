@@ -15,5 +15,5 @@
 - [AI Spam Classifier](link-to-repo) → Machine learning model to classify spam vs ham messages.   
 
 ## 🌍 Connect
-- [LinkedIn](www.linkedin.com/in/dn03)
+- LinkedIn: www.linkedin.com/in/dn03
 - Email: destinynosa15@gmail.com
